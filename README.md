@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ELÍAS MARTÍN</h1>
-<h3 align="center">I'm a passionate IT engineer with a deep love for technology and problem-solving. My expertise lies in system administration, software development, cybersecurity and I have a proven track record of implementing effective solutions for complex tech challenges.</h3>
+<h3 align="center">I'm a passionate IT engineer with a deep love for technology and problem-solving for complex tech challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EliasMarttin&label=Profile%20views&color=0e75b6&style=flat" alt="EliasMarttin" /> </p>
 
